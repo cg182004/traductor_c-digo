@@ -1,4 +1,3 @@
-# PUENTE
 
 Traductor educativo de un subconjunto de C a JavaScript, escrito en C con interfaz nativa Win32. Realiza análisis léxico, sintáctico y semántico y muestra el cuerpo traducido o el primer error con línea y columna.
 
